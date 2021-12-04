@@ -1,4 +1,4 @@
-# Objectifs journaliers
+ # Objectifs journaliers
 
 ## Phase 0 - La prairie
 
@@ -18,12 +18,12 @@
     * [ X ] Citations
     * [ X ] Tableaux
     * [ X ] Liens
-  * [ ] Faire le parcours "how-to-markdown" (Nodeschool.io)
+  * [ X ] Faire le parcours "how-to-markdown" (Nodeschool.io)
 * [ X ] Comprendre l'intérêt des raccourcis clavier
 * [ X ] Découverte des raccourcis clavier de son système (Windows, Linux, Mac) : 
   * [ X ] Navigateur (fenêtres, onglets, navigation, etc …)
   * [ X ] Terminal (fenêtres, onglets, commandes)
-* [ ] Commencer la rédaction en Markdown de ses cheat sheets dans un repo créé pour l'occasion
+* [ X ] Commencer la rédaction en Markdown de ses cheat sheets dans un repo créé pour l'occasion
 
 
 
