@@ -4,4 +4,4 @@
 
 ## Vendredi 10/12/2021
 
-Finaliser ses briefs
+[X]Finaliser ses briefs
